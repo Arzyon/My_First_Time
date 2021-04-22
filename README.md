@@ -21,22 +21,41 @@ tout ce quisuit est a modif
 [Sample](http://sampleproject.com) is a project...
 
 ## Table of content
+- [Explication](#Explication)
 - [Installation](#installation)
 	- [Linux](#linux)
+	- [Mac](#Mac)
 	- [Windows](#windows)
 - [License](#license)
 
+
+
+FRENCH 
+Tout le monde a une première fois. Cette première fois est celle du premier projet partagé sur GitHub. My_First_Time est un dossier hybride, qui permet de tester les différentes choses possibles, afin de mieux comprendre les différentes interactions pour comprendre l'utilisation de GitHub seul et avec  les autres contributeurs. Je le fais pour moi-même, mais j'espère apporter plus tard, quelques petits exercices qui servent d'exemples à tous les futurs utilisateurs, si possible.
+
+(Je suis comme Charlemagne, je sais lire l'anglais, MAIS, je l'écris comme un enfant -__- , c'est pourquoi le texte anglasi est directement traduit via DeepL.com)
+
+
+
+
+ENGLISH 
+Everyone has a first time. This first time is the first project shared on GitHub. My_First_Time is a hybrid folder, which allows you to test different things, in order to better understand the different interactions to use GitHub alone and with other contributors. I'm doing it for myself, but I hope to bring later on, some small exercises that serve as examples to all future users, if possible.
+
+(I'm like Charlemagne, I can read English, BUT, I write it like a child -__- , that's why the english text is directly translated via DeepL.com)
 ## Installation
-This document is for **latest Sample release**
+This document is for **latest Sample release** 
 
 ### Linux
+Open a terminal...
+
+### Mac
 Open a terminal...
 
 ### Window
 Open a window...
 
 ## Licence
-The sample project is licensed under the terms of the GPLv3 Open Sssource licence and is available for free.
+The sample project is licensed under the terms of the GPLv3 Open Source licence and is available for free.
 
 
 
@@ -97,24 +116,4 @@ GitHub watchers
 
 site pour diagramme app.diagrams.net
 peut transformer à partir SVG ^
-
-
-
-
-
-FRENCH 
-Tout le monde a une première fois. Cette première fois est celle du premier projet partagé sur GitHub. My_First_Time est un dossier hybride, qui permet de tester les différentes choses possibles, afin de mieux comprendre les différentes interactions pour comprendre l'utilisation de GitHub seul et avec  les autres contributeurs. Je le fais pour moi-même, mais j'espère apporter plus tard, quelques petits exercices qui servent d'exemples à tous les futurs utilisateurs, si possible.
-
-(Je suis comme Charlemagne, je sais lire l'anglais, MAIS, je l'écris comme un enfant -__- , c'est pourquoi le texte anglasi est directement traduit via DeepL.com)
-
-
-
-ENGLISH 
-Everyone has a first time. This first time is the first project shared on GitHub. My_First_Time is a hybrid folder, which allows you to test different things, in order to better understand the different interactions to use GitHub alone and with other contributors. I'm doing it for myself, but I hope to bring later on, some small exercises that serve as examples to all future users, if possible.
-
-(I'm like Charlemagne, I can read English, BUT, I write it like a child -__- , that's why the english text is directly translated via DeepL.com)
-
-
-
-
 
