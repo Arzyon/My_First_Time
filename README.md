@@ -47,30 +47,30 @@ The sample project is licensed under the terms of the GPLv3 Open Sssource licenc
 ## Testes divers grace à https://shields.io/category/size
 GitHub code size in bytes traditionnel
 \https://img.shields.io/github/languages/code-size/user/repo
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Arzyon/nameservice-1)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Arzyon/My_First_Time)
 
 GitHub code size in bytes en rose ^^
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Arzyon/nameservice-1?color=pink)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Arzyon/My_First_Time?color=pink)
 
 GitHub repo size in bytes traditionnel
 /https://img.shields.io/github/repo-size/user/repo
-![GitHub repo size](https://img.shields.io/github/repo-size/Arzyon/first-contributions)
+![GitHub repo size](https://img.shields.io/github/repo-size/Arzyon/My_First_Time)
 
 GitHub repo size in bytes en orange
 /https://img.shields.io/github/repo-size/user/repo?color=orange
-![GitHub repo size](https://img.shields.io/github/repo-size/Arzyon/first-contributions?color=orange)
+![GitHub repo size](https://img.shields.io/github/repo-size/Arzyon/My_First_Time?color=orange)
 
 
 GitHub repo file count:
 /https://img.shields.io/github/directory-file-count/user/repo?color=pink
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/Arzyon/first-contributions?color=pink)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/Arzyon/My_First_Time?color=pink)
 
 
 
 Lines of code
 /https://img.shields.io/tokei/lines/Provider/user/repo
 /Provider c'est le site hébergeur, github, gitlab....
-![Lines of code](https://img.shields.io/tokei/lines/github/Arzyon/first-contributions)
+![Lines of code](https://img.shields.io/tokei/lines/github/Arzyon/My_First_Time)
 
 
 
@@ -80,18 +80,18 @@ Lines of code
 
 /nb forks du repo de mon compte
 /https://img.shields.io/github/forks/user/repo?style=social
-![GitHub forks](https://img.shields.io/github/forks/Arzyon/first-contributions?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Arzyon/My_First_Time?style=social)
 
 /nb de sponsors de mon compte
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/Arzyon?style=social)
 
 GitHub Repo stars
 /https://img.shields.io/github/stars/user/repo?style=social
-![GitHub Repo stars](https://img.shields.io/github/stars/Arzyon/first-contributions?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/Arzyon/My_First_Time?style=social)
 
 GitHub watchers
 /https://img.shields.io/github/watchers/user/repo?style=social
-![GitHub watchers](https://img.shields.io/github/watchers/Arzyon/first-contributions?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Arzyon/My_First_Time?style=social)
 
 
 
